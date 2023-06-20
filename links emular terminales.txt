@@ -1,0 +1,5 @@
+https://itsfoss.com/online-linux-terminals/
+
+https://www.onworks.net/os-distributions/programs/terminal-online
+
+nbtstat -a
